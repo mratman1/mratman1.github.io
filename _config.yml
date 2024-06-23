@@ -1,9 +1,7 @@
 title: Mateusz Ratman
 author: Mateusz Ratman
 url: https://mratman1.github.io/ # root address of the site
-description: Hello. My name is Mateusz and I am an undergraduate studying Physics and Mathematics. My interests are biological and statistical physics.
-This is a place for me to share interesting topics I come across, and also provide resources for students. I will be sharing notes for Calculus III and other
- courses that I will be tutoring at the university. Feel free to contact me at mateuszratman[at]gmail[dot]com if you want to chat. 
+description: Hello. My name is Mateusz and I am an undergraduate studying Physics and Mathematics. My interests are biological and statistical physics. This is a place for me to share interesting topics I come across, and also provide resources for students. I will be sharing notes for Calculus III and other courses that I will be tutoring at the university. Feel free to contact me at mateuszratman[at]gmail[dot]com if you want to chat. 
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
