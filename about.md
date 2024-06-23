@@ -3,6 +3,4 @@ layout: post
 title: About
 ---
 
-This is an example page!
-
-Actually, it has the same layout of a post...
+Hello everyone. My name is Mateusz, and I am studying Physics and Mathematics at university. I enjoy physics research and I am planning to pursue graduate school in physics. 
