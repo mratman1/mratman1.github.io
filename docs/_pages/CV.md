@@ -1,6 +1,6 @@
 ---
-title: "Research"
-permalink: /research/
+title: "CV"
+permalink: /cv/
 layout: single
 author_profile: true
 ---
