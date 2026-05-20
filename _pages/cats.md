@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Cats"
 permalink: /cats/
 layout: single
 author_profile: true
