@@ -4,5 +4,7 @@ main:
     url: /research/
   - title: "CV"
     url: /cv/
+  - title: "Maths"
+    url: /maths/
   - title: "Cats + Dogs"
     url: /cats/
