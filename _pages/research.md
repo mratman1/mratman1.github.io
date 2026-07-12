@@ -15,3 +15,5 @@ Mechanical interactions among cells in a growing microbial colony can significan
 - **Spontaneous spatial sorting by cell shape in growing colonies of rod-like bacteria** (2025) — In Revision.
 
 ## Cholesteric Liquid Crystals
+
+*Write-up coming soon.*
