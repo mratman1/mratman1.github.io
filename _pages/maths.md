@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-## Blog Posts
-
 {% assign math_posts = site.categories.maths | sort: 'date' | reverse %}
 {% if math_posts.size > 0 %}
 <ul class="math-post-list">
