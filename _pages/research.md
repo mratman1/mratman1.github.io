@@ -21,3 +21,16 @@ Recent experimental observations in electrospun fibers with chiral 5CB in a PVP 
 ![Cholesteric LC](/assets/images/Cholesterics.png){: .align-center}
 
 - **Coexistence of Multistable States in Cholesteric Liquid Crystal Fibers** (2026) — In Preparation.
+
+## Designing an Efficient Molecular Machine out of Self-Assembled Dimers
+
+We proposed a theoretical model of a self-assembled 3-state molecular machine composed of dimers.
+The triangular prism shaped machine walks on a track by the means of rotational diffusion and
+the variation in side lengths. The internal states are switched stochastically through an internal
+parameter θ diffusing in a 1D potential landscape. We performed Brownian dynamics simulations
+using JaxMD, varying the two main timescales of stepping and state switching. We showed that the
+machine is quickest when the two timescales are matched, and the most energy efficient in the limit
+of long state switching timescales. Additionally we performed analytical calculations of the optimal parameters using absorbing Markov chains. 
+
+
+![Machine](/assets/images/Machine.png){: .align-center}
