@@ -7,15 +7,27 @@ author_profile: true
 
 ## Pictures of my Cats
 
-{% assign cat_photos = site.static_files | where_exp: "file", "file.path contains '/assets/images/cats/'" %}
-{% assign cat_photos = cat_photos | where_exp: "file", "file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.png' or file.extname == '.gif' or file.extname == '.webp'" %}
+{% assign photo_count = 0 %}
+{% for file in site.static_files %}
+  {% if file.path contains "/assets/images/cats/" %}
+    {% case file.extname %}
+      {% when ".jpg" or ".jpeg" or ".png" or ".gif" or ".webp" %}
+        {% assign photo_count = photo_count | plus: 1 %}
+    {% endcase %}
+  {% endif %}
+{% endfor %}
 
-{% if cat_photos.size > 0 %}
+{% if photo_count > 0 %}
 <div class="cat-gallery">
-  {% for photo in cat_photos %}
-  <a href="{{ photo.path | relative_url }}" target="_blank" rel="noopener" class="cat-gallery__item">
-    <img src="{{ photo.path | relative_url }}" alt="Cat photo" loading="lazy">
+  {% for file in site.static_files %}
+    {% if file.path contains "/assets/images/cats/" %}
+      {% case file.extname %}
+        {% when ".jpg" or ".jpeg" or ".png" or ".gif" or ".webp" %}
+  <a href="{{ file.path | relative_url }}" target="_blank" rel="noopener" class="cat-gallery__item">
+    <img src="{{ file.path | relative_url }}" alt="Cat photo" loading="lazy">
   </a>
+      {% endcase %}
+    {% endif %}
   {% endfor %}
 </div>
 
