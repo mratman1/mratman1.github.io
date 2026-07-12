@@ -6,10 +6,12 @@ author_profile: true
 ---
 
 ## Education
+**EPFL** — *06/2026-Present*<br>
+PhD in Physics
 
 **Johns Hopkins University** — *08/2022 – 05/2026*<br>
 B.S./M.A. Physics, Double Major in Mathematics — GPA: 3.99/4.00<br>
-Dean's List: Fall 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024, Spring 2025, Fall 2025
+Dean's List: Fall 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024, Spring 2025, Fall 2025, Spring 2026
 
 ## Experience
 
@@ -82,7 +84,7 @@ Monthly stipend of CHF 2,450 to support my PhD studies on the project titled *Co
 
 ## Extracurricular
 
-**Society of Physics Students, Secretary and Reading Program Director** — *05/2023 – Present*
+**Society of Physics Students, Secretary and Reading Program Director** — *05/2023 – 05/2026*
 - Led Quantum Biology directed reading program. Organized review sessions and wrote practice exams for all core physics courses. Co-organized a week-long educational trip to the Bay Area, visiting UC Berkeley, Stanford, SLAC, LLNL. Received the National 2023 Distinguished Chapter and 2024 Outstanding Chapter awards. Invited and hosted a science communication speaker from Canada.
 
 ## Skills

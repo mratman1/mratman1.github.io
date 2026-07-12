@@ -16,4 +16,8 @@ Mechanical interactions among cells in a growing microbial colony can significan
 
 ## Cholesteric Liquid Crystals
 
-*Write-up coming soon.*
+Recent experimental observations in electrospun fibers with chiral 5CB in a PVP shell show the coexistence of different states in a single fiber. Using Landau–de Gennes free energy minimization, we identify pairwise coexistence between metastable states in cholesterics confined to cylindrical capillaries. We consider three categories of states, the cholesteric ground state, the radial (double) twist (RT) state with a pitch axis defect along the cylinder symmetry axis, and the eccentric radial twist (ERT) where this defect takes the shape of a helix. We see coexistence between the cholesteric ground state with the pitch axis along the cylinder symmetry axis and the ERT. Additionally, we observe a bistability between the RT and ERT states. We determine the elastic constant ratios where this coexistence can occur. Based on Frank-Oseen free energy calculations, we determined the allowed radii of the ERT helix, and that the transition between the RT and ERT states is first-order as elastic constants are varied. 
+
+![Cholesteric LC](/assets/images/Cholesterics.png){: .align-center}
+
+- **Coexistence of Multistable States in Cholesteric Liquid Crystal Fibers** (2026) — In Preparation.
