@@ -29,6 +29,14 @@ B.S./M.A. Physics, Double Major in Mathematics <br> GPA: 3.99/4.00<br>
 
 **Ratman, Mateusz**, et al. *Spontaneous Spatial Sorting by Cell Shape in Growing Colonies of Rod-like Bacteria.* arXiv:2501.11177, 19 January 2025. [https://doi.org/10.48550/arXiv.2501.11177](https://doi.org/10.48550/arXiv.2501.11177)
 
+## Awards
+
+**Donald E. Kerr Memorial Award** — *05/2026*<br>
+Awarded by the William H. Miller III Department of Physics and Astronomy at Johns Hopkins University for outstanding achievement in physics.
+
+**Swiss Government Excellence Scholarship** — *2026–2027*<br>
+Monthly stipend of CHF 2,450 to support my PhD studies on the project titled *Collective Mechanics of Bacterial Colonies Traversing Structured Environments*.
+
 ## Presentations
 
 **Can we Design an Efficient Self-assembled Molecular Machine out of 2-state Dimers?**<br>
@@ -69,13 +77,8 @@ University of Massachusetts, Amherst — *6/2025*
 **21st Annual Northeastern Granular Materials Workshop**<br>
 Yale University — *6/2025*
 
-## Awards
-
-**Donald E. Kerr Memorial Award** — *05/2026*<br>
-Awarded by the William H. Miller III Department of Physics and Astronomy at Johns Hopkins University for outstanding achievement in physics.
-
-**Swiss Government Excellence Scholarship** — *2026–2027*<br>
-Monthly stipend of CHF 2,450 to support my PhD studies on the project titled *Collective Mechanics of Bacterial Colonies Traversing Structured Environments*.
+**Active and Responsive Soft Matter: From Biological to Engineered Systems**<br>
+Riga, Latvia — *7/2026*
 
 ## Extracurricular
 
